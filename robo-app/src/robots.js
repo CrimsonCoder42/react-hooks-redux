@@ -1,33 +1,33 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Luna Anderson',
+    username: 'Luna',
+    email: 'Luna@booboochicken.biz'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Devin Anderson',
+    username: 'Devin',
+    email: 'Devin@Kardia.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Isabel Anderson',
+    username: 'Isabel',
+    email: 'Izzy@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Alicia Whalen',
+    username: 'Alicia',
+    email: 'Alicia@kory.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Steven Whalen',
+    username: 'Steven',
+    email: 'Steven_Whalen@annieR_U_Ok.ca'
   },
   {
     id: 6,
